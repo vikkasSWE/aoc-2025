@@ -30,8 +30,6 @@ pub fn a(input: &str) -> i64 {
         }
     }
 
-    println!("{sum}");
-
     sum
 }
 
@@ -75,8 +73,6 @@ pub fn b(input: &str) -> i64 {
             }
         }
     }
-
-    println!("{sum}");
 
     sum
 }
